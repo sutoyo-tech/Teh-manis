@@ -1,16 +1,7 @@
 {
-  "name": "tehmanis",
-  "version": "1.1.4",
-,
-",
-,
-4",
-,
-",
-,
-"private ttrueruettttrueruettrttrueruettttrueruettruruuru
-ttrueruettttrueruettruru
-    
+  "name": "tehbudi",
+  "version": "0.1.0",
+  "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -25,18 +16,12 @@ ttrueruettttrueruettruru
   "devDependencies": {
     "typescript": "^5",
     "@types/node": "^20",
-18",
+    "@types/react": "^18",
     "@types/react-dom": "^18",
     "autoprefixer": "^10.0.1",
     "postcss": "^8",
     "tailwindcss": "^3.3.0",
-"eslin
-lin
-eslin
-lin
-
-"eslin
-lin
-eslineslin
+    "eslint": "^8",
+    "eslint-config-next": "14.1.3"
   }
 }
